@@ -1,0 +1,2 @@
+How do I assign events to a user with jwt
+    -Add zipCode
